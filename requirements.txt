@@ -1,0 +1,2 @@
+requests==2.18.4 
+robobrowser==0.5.3

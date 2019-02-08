@@ -1,2 +1,6 @@
 requests==2.18.4 
 robobrowser==0.5.3
+getpass
+re
+bs4
+
